@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/slider/static/css/main.33d1c5e1.chunk.css",
+    "main.js": "/slider/static/js/main.92e56102.chunk.js",
+    "main.js.map": "/slider/static/js/main.92e56102.chunk.js.map",
+    "runtime-main.js": "/slider/static/js/runtime-main.53968bd4.js",
+    "runtime-main.js.map": "/slider/static/js/runtime-main.53968bd4.js.map",
+    "static/css/2.1f208231.chunk.css": "/slider/static/css/2.1f208231.chunk.css",
+    "static/js/2.768c0ab2.chunk.js": "/slider/static/js/2.768c0ab2.chunk.js",
+    "static/js/2.768c0ab2.chunk.js.map": "/slider/static/js/2.768c0ab2.chunk.js.map",
+    "static/js/3.d04a15e2.chunk.js": "/slider/static/js/3.d04a15e2.chunk.js",
+    "static/js/3.d04a15e2.chunk.js.map": "/slider/static/js/3.d04a15e2.chunk.js.map",
+    "index.html": "/slider/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/slider/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.33d1c5e1.chunk.css.map": "/slider/static/css/main.33d1c5e1.chunk.css.map",
+    "static/js/2.768c0ab2.chunk.js.LICENSE.txt": "/slider/static/js/2.768c0ab2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53968bd4.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.768c0ab2.chunk.js",
+    "static/css/main.33d1c5e1.chunk.css",
+    "static/js/main.92e56102.chunk.js"
+  ]
+}
